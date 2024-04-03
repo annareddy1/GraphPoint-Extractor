@@ -9,7 +9,7 @@ This process began with image processing techniques, including loading the image
 ### Original graph
 ![original graph](./original-graph.jpg)
 
-### Genrated graph based on the original graph
+### Generated graph based on the original graph
 ![generated graph](./generated-graph.jpg)
 
 ### Interative plot based on the generated graph
